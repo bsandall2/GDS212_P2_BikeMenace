@@ -1217,3 +1217,9 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2022.02.28-12.22.54:539][527]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
 [2022.02.28-12.22.54:539][527]PIE: Server logged in
 [2022.02.28-12.22.54:540][527]PIE: Play in editor total start time 0.076 seconds.
+[2022.02.28-12.23.53:567][383]LogUObjectHash: Compacting FUObjectHashTables data took   3.47ms
+[2022.02.28-12.23.53:599][383]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2022.02.28-12.23.53:631][383]LogSavePackage: Moving '../../../../../Users/bgsan/Documents/Unreal Projects/BikeMenace/GDS212_P2_BikeMenace/BikeMenacePrototype/Saved/MainMenuBCAB299742BED59CC39ECC9A778E5E8E.tmp' to '../../../../../Users/bgsan/Documents/Unreal Projects/BikeMenace/GDS212_P2_BikeMenace/BikeMenacePrototype/Content/MainMenu.umap'
+[2022.02.28-12.23.53:642][383]LogFileHelpers: Saving map 'MainMenu' took 0.072
+[2022.02.28-12.23.53:652][383]AssetCheck: New page: Asset Save: MainMenu
+[2022.02.28-12.23.53:652][383]LogContentValidation: Display: Validating World /Game/MainMenu.MainMenu
